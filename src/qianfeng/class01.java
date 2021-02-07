@@ -19,5 +19,8 @@ public class class01 {
          */
         int num1 = 2,num2 = 3;
         System.out.println(num1 + num2 + "print" + num1 + num2);
+        /*
+        测试一下GitHub的功能
+         */
     }
 }
